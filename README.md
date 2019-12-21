@@ -1,5 +1,13 @@
 # watering-flower
 
+
+Edanur TOSUN,
+Gülşah KAÇAN, 
+Merve TAFRALI, 
+Sena Nur ELİGÜZEL
+
+
+
 Our arduino project look like this : 
 ---------------------------------------------------------------------
 ![it looks like this](https://github.com/edanurtosun/watering-flower/blob/master/project.jpeg)
